@@ -1,6 +1,6 @@
 # Fork Customizations
 
-> This repository is a fork of [unknown]().
+> This repository is a fork of [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills).
 > Managed under the [iAiFy Enterprise](https://github.com/enterprises/iAiFy) governance model.
 
 ## Purpose
@@ -11,7 +11,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 | Property | Value |
 |----------|-------|
-| Upstream | [unknown]() |
+| Upstream | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) |
 | Language | Python |
 | Fork org | AiFeatures |
 
